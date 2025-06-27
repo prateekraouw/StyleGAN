@@ -75,7 +75,7 @@ StyleGAN/
 
 4. **Open the frontend:**
     - Open `app/index.html` in your browser, or
-    - Deploy both backend and frontend using the provided Dockerfile.
+    - Deploy both backend and frontend using the Dockerfile.
 
 ---
 
