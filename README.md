@@ -18,9 +18,9 @@ A web-based application for generating images using Generative Adversarial Netwo
 ---
 
 ## Overview
-
 **StyleGAN** lets users generate images through a simple web interface powered by GANs. The backend is written in Python and exposes endpoints for image generation, while the frontend provides an easy way to interact with the model.
-**Repository Notice:** This is a cleaned version of the original project repository. All commit messages, development iterations, and intermediate edits have been removed to present only the final implementation.
+
+> **Repository Notice:** This is a cleaned version of the original project repository. All commit messages, development iterations, and intermediate edits have been removed to present only the final implementation.
 
 ---
 
