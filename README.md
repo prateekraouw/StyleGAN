@@ -1,8 +1,7 @@
-# GAN-App
+# StyleGAN
 
 A web-based application for generating images using Generative Adversarial Networks (GANs).
 
-**Live Demo:** [https://gan-app.onrender.com/](https://gan-app.onrender.com/)
 
 ---
 
@@ -35,7 +34,7 @@ A web-based application for generating images using Generative Adversarial Netwo
 
 ## Project Structure
 ```
-GAN-App/
+StyleGAN/
 ├── api/ # Backend API (Python Flask)
 ├── app/ # Frontend (HTML/JS)
 ├── GAN.ipynb # Jupyter Notebook for GAN model development/training
@@ -58,8 +57,8 @@ GAN-App/
 
 1. **Clone the repository:**
     ```
-    git clone https://github.com/Yash12930/GAN-App.git
-    cd GAN-App
+    git clone https://github.com/prateekraouw/StyleGAN.git
+    cd StyleGAN
     ```
 
 2. **Install dependencies:**
@@ -104,4 +103,3 @@ This project is licensed under the MIT License.
 
 ---
 
-**Author:** [Yash12930](https://github.com/Yash12930)
